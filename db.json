@@ -29,6 +29,12 @@
       "username": "milton",
       "name": "Milton is running in a monolithic container",
       "bio": "Yeah !!  I am containerized.  Running in a big container"
+    },
+    {
+      "id": 6,
+      "username": "Vador",
+      "name": "Darth Vador",
+      "bio": "Emperor of the death star and whole universe!!!"
     }
   ],
 
